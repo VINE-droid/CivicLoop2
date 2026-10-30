@@ -1,0 +1,8 @@
+{
+  "name": "civicloop",
+  "version": "1.0.0",
+  "description": "Rule-based civic issue reporting demo",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "multer": "^1.4.5-lts.1" }
+}
